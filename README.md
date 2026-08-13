@@ -1,4 +1,4 @@
-# Performace_Improvement_Contest
+# Performance_Improvement_Contest
 # 카카오 약관 QA 결과기 (KTB 4기 AI 성능 개선 대회 · 13팀)
 
 카카오 약관 4종에서 질문에 해당하는 조항을 찾아 **답변과 근거 조항을 함께 반환**하는 RAG 시스템입니다.
